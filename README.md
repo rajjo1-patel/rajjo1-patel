@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Rajeshree 👋
 
-<!--
-**rajjo1-patel/rajjo1-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a People Technology Delivery Manager with deep experience in workflow optimization, HR systems, cross-functional execution, and enterprise SaaS administration across biopharma, SaaS, and financial services.
 
-Here are some ideas to get you started:
+I specialize in:
+- People Technology systems (HRIS, M365, Google Workspace, SaaS platforms)
+- Workflow modernization and process automation
+- Compliance governance and audit readiness
+- Cross-functional delivery across HR, IT, Finance, and Legal
+- Data-driven operations and workforce planning support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub showcases my work in:
+- Process documentation
+- Workflow diagrams
+- Automation prototypes
+- People Tech playbooks
+- Learning projects in AI, analytics, and digital operations
